@@ -5,7 +5,7 @@
 ## Результаты
 
 ### Статичный рендер (time=0)
-<img src="ppm/output_00.jpg" width="400">
+<img src="ppm/output_00.jpg" width="600">
 
 ## Структура проекта
 src/
